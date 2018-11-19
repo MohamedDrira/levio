@@ -1,0 +1,11 @@
+C:\Users\moham\Documents\Visual Studio 2015\Projects\PIDEV\ServicePattern\obj\Debug\ServicePattern.csprojResolveAssemblyReference.cache
+C:\Users\moham\Documents\Visual Studio 2015\Projects\PIDEV\ServicePattern\bin\Debug\ServicePattern.dll
+C:\Users\moham\Documents\Visual Studio 2015\Projects\PIDEV\ServicePattern\bin\Debug\ServicePattern.pdb
+C:\Users\moham\Documents\Visual Studio 2015\Projects\PIDEV\ServicePattern\bin\Debug\Data.dll
+C:\Users\moham\Documents\Visual Studio 2015\Projects\PIDEV\ServicePattern\bin\Debug\EntityFramework.dll
+C:\Users\moham\Documents\Visual Studio 2015\Projects\PIDEV\ServicePattern\bin\Debug\Domain.dll
+C:\Users\moham\Documents\Visual Studio 2015\Projects\PIDEV\ServicePattern\bin\Debug\Data.pdb
+C:\Users\moham\Documents\Visual Studio 2015\Projects\PIDEV\ServicePattern\bin\Debug\EntityFramework.xml
+C:\Users\moham\Documents\Visual Studio 2015\Projects\PIDEV\ServicePattern\bin\Debug\Domain.pdb
+C:\Users\moham\Documents\Visual Studio 2015\Projects\PIDEV\ServicePattern\obj\Debug\ServicePattern.dll
+C:\Users\moham\Documents\Visual Studio 2015\Projects\PIDEV\ServicePattern\obj\Debug\ServicePattern.pdb

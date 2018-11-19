@@ -1,0 +1,14 @@
+C:\Users\moham\Documents\Visual Studio 2015\Projects\PIDEV\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\moham\Documents\Visual Studio 2015\Projects\PIDEV\Data\bin\Debug\Data.dll.config
+C:\Users\moham\Documents\Visual Studio 2015\Projects\PIDEV\Data\bin\Debug\Data.dll
+C:\Users\moham\Documents\Visual Studio 2015\Projects\PIDEV\Data\bin\Debug\Data.pdb
+C:\Users\moham\Documents\Visual Studio 2015\Projects\PIDEV\Data\bin\Debug\Domain.dll
+C:\Users\moham\Documents\Visual Studio 2015\Projects\PIDEV\Data\bin\Debug\EntityFramework.dll
+C:\Users\moham\Documents\Visual Studio 2015\Projects\PIDEV\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\moham\Documents\Visual Studio 2015\Projects\PIDEV\Data\bin\Debug\MySql.Data.dll
+C:\Users\moham\Documents\Visual Studio 2015\Projects\PIDEV\Data\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\moham\Documents\Visual Studio 2015\Projects\PIDEV\Data\bin\Debug\Domain.pdb
+C:\Users\moham\Documents\Visual Studio 2015\Projects\PIDEV\Data\bin\Debug\EntityFramework.xml
+C:\Users\moham\Documents\Visual Studio 2015\Projects\PIDEV\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\moham\Documents\Visual Studio 2015\Projects\PIDEV\Data\obj\Debug\Data.dll
+C:\Users\moham\Documents\Visual Studio 2015\Projects\PIDEV\Data\obj\Debug\Data.pdb
